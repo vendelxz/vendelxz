@@ -1,8 +1,8 @@
-## - Opa, eu sou o Wendel
+## - Opa, eu sou o Wendel 👋🏻 
 ---
-#### - No momento estou cursando Ciência da Computação (UFPB)
+#### - No momento estou cursando Ciência da Computação (UFPB) 📚
 #### - Sempre estou buscando aprender mais...
-#### - Paraíba - Brasil 
+#### - Paraíba - Brasil 🇧🇷
 ---
 ## 📈 GitHub Stats
 ![Wendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=vendelxz&show_icons=true&theme=dracula)
