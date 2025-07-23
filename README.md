@@ -12,7 +12,7 @@
 - Proatividade
 - Interesse em aprender
 - Boa comunicação
-- Inglês de nível avancando (Listening & Speaking)
+- Inglês de nível avançado (Listening & Speaking)
 ---
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jwend3l)
