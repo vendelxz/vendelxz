@@ -12,11 +12,12 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">💻 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vendelxz&show_icons=true&theme=dracula" alt="Wendel's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendelxz&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
+
 
 ---
 
