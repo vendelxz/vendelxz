@@ -9,7 +9,7 @@
   📖 Sempre estou buscando aprender mais... <br>
   🌍 Paraíba - Brasil 
 </p>
----
+
 
 <h2 align="center">🚀 Tecnologias</h2>
 
