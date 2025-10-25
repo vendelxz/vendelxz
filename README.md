@@ -26,9 +26,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwend3l&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wendel's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vendelxz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wendel's GitHub Stats" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwend3l&layout=compact&theme=dracula" alt="Wendel's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendelxz&layout=compact&theme=dracula" alt="Wendel's Top Languages" />
 </p>
 
 ---
