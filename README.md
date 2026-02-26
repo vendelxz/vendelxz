@@ -1,56 +1,66 @@
 <h2 align="center">Hi, I'm Wendel 👋🏻</h2>
 
+<p align="center">
+  🎓 <b>Computer Science Student at UFPB</b> <br>
+  ☕ Focusing on <b>Back-End Development</b> with Java Ecosystem & Python. <br>
+  🛡️ Enthusiast of <b>Web Security</b>, REST APIs, and Database Modeling. <br>
+  🌍 Paraíba - Brazil
+</p>
+
 ---
 
-<h2 align="center">📌 GENERAL</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
+<h3 align="center">Backend & Database</h3>
 <p align="center">
-  🎓 Computer Science Student at UFPB <br>
-  💡 Focusing on Back-End development with Java, Spring, and Python. <br>
-  📖 Committed to continuous learning and problem-solving. <br>
-  🌍 Paraíba - Brazil 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="45" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/Javalin-000000?style=for-the-badge&logo=java&logoColor=white" title="Javalin" alt="Javalin" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgres" width="45" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black" title="Neon DB" alt="Neon" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
 </p>
 
-<h2 align="center">🚀 Technologies</h2>
-
+<h3 align="center">Tools & Environment</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
 </p>
+
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vendelxz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wendel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vendelxz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Wendel's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendelxz&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">⚡ Soft Skills & Competencies</h2>
 
 <p align="center">
-  • Proactivity <br>
-  • Eager to learn <br>
-  • Good communication <br>
-  • Advanced English (Listening & Speaking)
+  🗣️ <b>Communication:</b> Advanced English (Listening & Speaking) <br>
+  🧠 <b>Mindset:</b> Problem-solving & Proactivity <br>
+  🎨 <b>Code Quality:</b> Clean Code & API Design principles
 </p>
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jwend3l" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
   <a href="mailto:jwend3l@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;
   <a href="https://www.instagram.com/jwendeel" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
