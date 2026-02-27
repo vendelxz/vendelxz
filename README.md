@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
 </p>
 
----
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
