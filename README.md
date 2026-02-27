@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 <b>Computer Science Student at UFPB</b> <br>
-  ☕ Focusing on <b>Back-End Development</b> with Java Ecosystem & Python. <br>
+  ☕ Focusing on <b>Back-End Development</b> with Java Ecosystem and other technnologies <br>
   🛡️ Enthusiast of <b>Web Security</b>, REST APIs, and Database Modeling. <br>
   🌍 Paraíba - Brazil
 </p>
