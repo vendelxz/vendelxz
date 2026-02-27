@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vendelxz&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
----
+
 
 <h2 align="center">⚡ Soft Skills & Competencies</h2>
 
