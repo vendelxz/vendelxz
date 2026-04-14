@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-lightgrey?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java " />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-   <img src="https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+   <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   
 </p>
 
