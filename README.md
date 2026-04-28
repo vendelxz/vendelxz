@@ -9,17 +9,15 @@
 
 ---
 <h2 align="center">🔨 Working Recently</h2>
-
 <p align="center">
-  A personal finance management system built with <b>Vanilla JS</b>, <b>Java Spring Boot</b>, <b>PostgreSQL</b> and deployed on <b>AWS EC2</b> with <b>NGINX + SSL</b>.<br>
+  A personal finance management system rebuilt with <b>React</b>, <b>Java Spring Boot</b>, <b>PostgreSQL</b> and deployed on <b>AWS EC2</b> with <b>NGINX + SSL</b> and <b>Vercel</b>.<br>
   Features JWT authentication, password recovery via SMTP, and a fully tested REST API.
 </p>
-
 <p align="center">
-  <a href="https://github.com/vendelxz/finance.control" target="_blank">
+  <a href="https://github.com/vendelxz/controlefinanceiro.react" target="_blank">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>&nbsp;
-  <a href="https://vendelxz.github.io/finance.control/" target="_blank">
+  <a href="https://financecontrol-react.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
   </a>
 </p>
