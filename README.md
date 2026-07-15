@@ -80,7 +80,7 @@
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vendelxz&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vendelxz&layout=compact&theme=dracula&hide_border=true&hide=python&langs_count=8" alt="Top Languages" />
 </p>
 
 
