@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Wendel 👋🏻</h2>
+<h2 align="center">José Wendel</h2>
 
 <p align="center">
   🎓 <b>Computer Science Student at UFPB</b> <br>
